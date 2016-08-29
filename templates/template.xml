@@ -1,0 +1,18 @@
+<root>
+    {% for condition, (crawl_time,flightItems) in data.items() %}
+        <condition condition="{{ condition[0] }},{{ condition[1] }},{{ condition[2] }},{{ condition[3] }}"
+                   crawl="{{ crawl_time }}">
+            {% for flight in flightItems.values() %}
+                <flight number="{{ flight.leave_flight_number }}_{{ flight.back_flight_number }}">
+                    <price>{{ flight.price }}</price>
+                    <leave>
+                        <part>{{ flight.leave_city_name }},{{ flight.back_city_name }},{{ flight.leave_depart_time }},{{ flight.leave_arrive_time }}</part>
+                    </leave>
+                    <back>
+                        <part>{{ flight.back_city_name }},{{ flight.leave_city_name }},{{ flight.back_depart_time }},{{ flight.back_arrive_time }}</part>
+                    </back>
+                </flight>
+            {% endfor %}
+        </condition>
+    {% endfor %}
+</root>

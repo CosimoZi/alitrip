@@ -1,0 +1,9 @@
+# Created by .ignore support plugin (hsz.mobi)
+.pyc
+data
+output
+nohup.out
+ghostdriver.log
+test.png
+test.py
+.idea

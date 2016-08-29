@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <p dptChinese="上海" dptEnglish="shanghai" dptTrich="sha" dstChinese="首尔" dstEnglish="seoul" dstTrich="sel"
+       intervals_Leave="6,9,14,20,27,48" intervals_Back="6,7,8,14" batchIndex="0"/>
+    <p dptChinese="上海" dptEnglish="shanghai" dptTrich="sha" dstChinese="东京" dstEnglish="tokyo" dstTrich="tyo"
+       intervals_Leave="6,9,14,20,27,48" intervals_Back="6,7,8,14" batchIndex="0"/>
+    <p dptChinese="北京" dptEnglish="beijing" dptTrich="bjs" dstChinese="首尔" dstEnglish="seoul" dstTrich="sel"
+       intervals_Leave="6,9,14,20,27,48" intervals_Back="6,7,8,14" batchIndex="0"/>
+    <p dptChinese="上海" dptEnglish="shanghai" dptTrich="sha" dstChinese="香港" dstEnglish="hongkong" dstTrich="hkg"
+       intervals_Leave="6,9,14,20,27,48" intervals_Back="6,7,8,14" batchIndex="0"/>
+    <p dptChinese="北京" dptEnglish="beijing" dptTrich="bjs" dstChinese="东京" dstEnglish="tokyo" dstTrich="tyo"
+       intervals_Leave="6,9,14,20,27,48" intervals_Back="6,7,8,14" batchIndex="0"/>
+    <p dptChinese="上海" dptEnglish="shanghai" dptTrich="sha" dstChinese="大阪" dstEnglish="osaka" dstTrich="osa"
+       intervals_Leave="6,9,14,20,27,48" intervals_Back="6,7,8,14" batchIndex="0"/>
+    <p dptChinese="北京" dptEnglish="beijing" dptTrich="bjs" dstChinese="曼谷" dstEnglish="bangkok" dstTrich="bkk"
+       intervals_Leave="6,9,14,20,27,48" intervals_Back="6,7,8,14" batchIndex="0"/>
+    <p dptChinese="北京" dptEnglish="beijing" dptTrich="bjs" dstChinese="香港" dstEnglish="hongkong" dstTrich="hkg"
+       intervals_Leave="6,9,14,20,27,48" intervals_Back="6,7,8,14" batchIndex="0"/>
+    <p dptChinese="上海" dptEnglish="shanghai" dptTrich="sha" dstChinese="曼谷" dstEnglish="bangkok" dstTrich="bkk"
+       intervals_Leave="6,9,14,20,27,48" intervals_Back="6,7,8,14" batchIndex="0"/>
+    <p dptChinese="上海" dptEnglish="shanghai" dptTrich="sha" dstChinese="台北" dstEnglish="taipei" dstTrich="tpe"
+       intervals_Leave="6,9,14,20,27,48" intervals_Back="6,7,8,14" batchIndex="0"/>
+    <p dptChinese="上海" dptEnglish="shanghai" dptTrich="sha" dstChinese="普吉岛" dstEnglish="phuket" dstTrich="hkt"
+       intervals_Leave="6,9,14,20,27,48" intervals_Back="6,7,8,14" batchIndex="0"/>
+    <p dptChinese="上海" dptEnglish="shanghai" dptTrich="sha" dstChinese="澳门" dstEnglish="macau" dstTrich="mfm"
+       intervals_Leave="6,9,14,20,27,48" intervals_Back="6,7,8,14" batchIndex="0"/>
+    <p dptChinese="北京" dptEnglish="beijing" dptTrich="bjs" dstChinese="大阪" dstEnglish="osaka" dstTrich="osa"
+       intervals_Leave="6,9,14,20,27,48" intervals_Back="6,7,8,14" batchIndex="0"/>
+    <p dptChinese="天津" dptEnglish="tianjin" dptTrich="tsn" dstChinese="香港" dstEnglish="hongkong" dstTrich="hkg"
+       intervals_Leave="6,9,14,20,27,48" intervals_Back="6,7,8,14" batchIndex="0"/>
+    <p dptChinese="广州" dptEnglish="guangzhou" dptTrich="can" dstChinese="曼谷" dstEnglish="bangkok" dstTrich="bkk"
+       intervals_Leave="6,9,14,20,27,48" intervals_Back="6,7,8,14" batchIndex="0"/>
+    <p dptChinese="青岛" dptEnglish="qingdao" dptTrich="tao" dstChinese="首尔" dstEnglish="seoul" dstTrich="sel"
+       intervals_Leave="6,9,14,20,27,48" intervals_Back="6,7,8,14" batchIndex="0"/>
+    <p dptChinese="上海" dptEnglish="shanghai" dptTrich="sha" dstChinese="新加坡" dstEnglish="singapore" dstTrich="sin"
+       intervals_Leave="6,9,14,20,27,48" intervals_Back="6,7,8,14" batchIndex="0"/>
+    <p dptChinese="南京" dptEnglish="nanjing" dptTrich="nkg" dstChinese="香港" dstEnglish="hongkong" dstTrich="hkg"
+       intervals_Leave="6,9,14,20,27,48" intervals_Back="6,7,8,14" batchIndex="0"/>
+    <p dptChinese="北京" dptEnglish="beijing" dptTrich="bjs" dstChinese="台北" dstEnglish="taipei" dstTrich="tpe"
+       intervals_Leave="6,9,14,20,27,48" intervals_Back="6,7,8,14" batchIndex="0"/>
+    <p dptChinese="香港" dptEnglish="hongkong" dptTrich="hkg" dstChinese="上海" dstEnglish="shanghai" dstTrich="sha"
+       intervals_Leave="6,9,14,20,27,48" intervals_Back="6,7,8,14" batchIndex="0"/>
+    <p dptChinese="北京" dptEnglish="beijing" dptTrich="bjs" dstChinese="普吉岛" dstEnglish="phuket" dstTrich="hkt"
+       intervals_Leave="6,9,14,20,27,48" intervals_Back="6,7,8,14" batchIndex="0"/>
+    <p dptChinese="上海" dptEnglish="shanghai" dptTrich="sha" dstChinese="洛杉矶" dstEnglish="losangeles" dstTrich="lax"
+       intervals_Leave="9,15,23,32,47,87" intervals_Back="7,8,9,14,21" batchIndex="0"/>
+    <p dptChinese="成都" dptEnglish="chengdu" dptTrich="ctu" dstChinese="香港" dstEnglish="hongkong" dstTrich="hkg"
+       intervals_Leave="6,9,14,20,27,48" intervals_Back="6,7,8,14" batchIndex="0"/>
+    <p dptChinese="重庆" dptEnglish="chongqing" dptTrich="ckg" dstChinese="新加坡" dstEnglish="singapore" dstTrich="sin"
+       intervals_Leave="6,9,14,20,27,48" intervals_Back="6,7,8,14" batchIndex="0"/>
+    <p dptChinese="曼谷" dptEnglish="bangkok" dptTrich="bkk" dstChinese="普吉岛" dstEnglish="phuket" dstTrich="hkt"
+       intervals_Leave="6,9,14,20,27,48" intervals_Back="6,7,8,14" batchIndex="0"/>
+    <p dptChinese="北京" dptEnglish="beijing" dptTrich="bjs" dstChinese="温哥华" dstEnglish="vancouver" dstTrich="yvr"
+       intervals_Leave="9,15,23,32,47,87" intervals_Back="7,8,9,14,21" batchIndex="0"/>
+    <p dptChinese="天津" dptEnglish="tianjin" dptTrich="tsn" dstChinese="首尔" dstEnglish="seoul" dstTrich="sel"
+       intervals_Leave="6,9,14,20,27,48" intervals_Back="6,7,8,14" batchIndex="0"/>
+    <p dptChinese="首尔" dptEnglish="seoul" dptTrich="sel" dstChinese="上海" dstEnglish="shanghai" dstTrich="sha"
+       intervals_Leave="6,9,14,20,27,48" intervals_Back="6,7,8,14" batchIndex="0"/>
+    <p dptChinese="杭州" dptEnglish="hangzhou" dptTrich="hgh" dstChinese="香港" dstEnglish="hongkong" dstTrich="hkg"
+       intervals_Leave="6,9,14,20,27,48" intervals_Back="6,7,8,14" batchIndex="0"/>
+    <p dptChinese="大连" dptEnglish="dalian" dptTrich="dlc" dstChinese="首尔" dstEnglish="seoul" dstTrich="sel"
+       intervals_Leave="6,9,14,20,27,48" intervals_Back="6,7,8,14" batchIndex="0"/>
+    <p dptChinese="北京" dptEnglish="beijing" dptTrich="bjs" dstChinese="多伦多" dstEnglish="toronto" dstTrich="yto"
+       intervals_Leave="9,15,23,32,47,87" intervals_Back="7,8,9,14,21" batchIndex="0"/>
+    <p dptChinese="北京" dptEnglish="beijing" dptTrich="bjs" dstChinese="洛杉矶" dstEnglish="losangeles" dstTrich="lax"
+       intervals_Leave="9,15,23,32,47,87" intervals_Back="7,8,9,14,21" batchIndex="0"/>
+    <p dptChinese="成都" dptEnglish="chengdu" dptTrich="ctu" dstChinese="普吉岛" dstEnglish="phuket" dstTrich="hkt"
+       intervals_Leave="6,9,14,20,27,48" intervals_Back="6,7,8,14" batchIndex="0"/>
+    <p dptChinese="北京" dptEnglish="beijing" dptTrich="bjs" dstChinese="新加坡" dstEnglish="singapore" dstTrich="sin"
+       intervals_Leave="6,9,14,20,27,48" intervals_Back="6,7,8,14" batchIndex="0"/>
+    <p dptChinese="重庆" dptEnglish="chongqing" dptTrich="ckg" dstChinese="香港" dstEnglish="hongkong" dstTrich="hkg"
+       intervals_Leave="6,9,14,20,27,48" intervals_Back="6,7,8,14" batchIndex="0"/>
+    <p dptChinese="沈阳" dptEnglish="shenyang" dptTrich="she" dstChinese="首尔" dstEnglish="seoul" dstTrich="sel"
+       intervals_Leave="6,9,14,20,27,48" intervals_Back="6,7,8,14" batchIndex="0"/>
+    <p dptChinese="天津" dptEnglish="tianjin" dptTrich="tsn" dstChinese="东京" dstEnglish="tokyo" dstTrich="tyo"
+       intervals_Leave="6,9,14,20,27,48" intervals_Back="6,7,8,14" batchIndex="0"/>
+    <p dptChinese="上海" dptEnglish="shanghai" dptTrich="sha" dstChinese="伦敦" dstEnglish="london" dstTrich="lon"
+       intervals_Leave="9,15,23,32,47,87" intervals_Back="7,8,9,14,21" batchIndex="0"/>
+    <p dptChinese="上海" dptEnglish="shanghai" dptTrich="sha" dstChinese="巴厘岛" dstEnglish="bali" dstTrich="dps"
+       intervals_Leave="6,9,14,20,27,48" intervals_Back="6,7,8,14" batchIndex="0"/>
+    <p dptChinese="厦门" dptEnglish="xiamen" dptTrich="xmn" dstChinese="香港" dstEnglish="hongkong" dstTrich="hkg"
+       intervals_Leave="6,9,14,20,27,48" intervals_Back="6,7,8,14" batchIndex="0"/>
+    <p dptChinese="上海" dptEnglish="shanghai" dptTrich="sha" dstChinese="济州岛" dstEnglish="jeju" dstTrich="cju"
+       intervals_Leave="6,9,14,20,27,48" intervals_Back="6,7,8,14" batchIndex="0"/>
+    <p dptChinese="武汉" dptEnglish="wuhan" dptTrich="wuh" dstChinese="香港" dstEnglish="hongkong" dstTrich="hkg"
+       intervals_Leave="6,9,14,20,27,48" intervals_Back="6,7,8,14" batchIndex="0"/>
+    <p dptChinese="成都" dptEnglish="chengdu" dptTrich="ctu" dstChinese="曼谷" dstEnglish="bangkok" dstTrich="bkk"
+       intervals_Leave="6,9,14,20,27,48" intervals_Back="6,7,8,14" batchIndex="0"/>
+    <p dptChinese="澳门" dptEnglish="macau" dptTrich="mfm" dstChinese="上海" dstEnglish="shanghai" dstTrich="sha"
+       intervals_Leave="6,9,14,20,27,48" intervals_Back="6,7,8,14" batchIndex="0"/>
+    <p dptChinese="上海" dptEnglish="shanghai" dptTrich="sha" dstChinese="悉尼" dstEnglish="sydney" dstTrich="syd"
+       intervals_Leave="9,15,23,32,47,87" intervals_Back="7,8,9,14,21" batchIndex="0"/>
+    <p dptChinese="上海" dptEnglish="shanghai" dptTrich="sha" dstChinese="温哥华" dstEnglish="vancouver" dstTrich="yvr"
+       intervals_Leave="9,15,23,32,47,87" intervals_Back="7,8,9,14,21" batchIndex="0"/>
+    <p dptChinese="成都" dptEnglish="chengdu" dptTrich="ctu" dstChinese="首尔" dstEnglish="seoul" dstTrich="sel"
+       intervals_Leave="6,9,14,20,27,48" intervals_Back="6,7,8,14" batchIndex="0"/>
+    <p dptChinese="南京" dptEnglish="nanjing" dptTrich="nkg" dstChinese="首尔" dstEnglish="seoul" dstTrich="sel"
+       intervals_Leave="6,9,14,20,27,48" intervals_Back="6,7,8,14" batchIndex="0"/>
+    <p dptChinese="成都" dptEnglish="chengdu" dptTrich="ctu" dstChinese="东京" dstEnglish="tokyo" dstTrich="tyo"
+       intervals_Leave="6,9,14,20,27,48" intervals_Back="6,7,8,14" batchIndex="0"/>
+    <p dptChinese="香港" dptEnglish="hongkong" dptTrich="hkg" dstChinese="曼谷" dstEnglish="bangkok" dstTrich="bkk"
+       intervals_Leave="6,9,14,20,27,48" intervals_Back="6,7,8,14" batchIndex="0"/>
+    <p dptChinese="广州" dptEnglish="guangzhou" dptTrich="can" dstChinese="吉隆坡" dstEnglish="kualalumpur" dstTrich="kul"
+       intervals_Leave="6,9,14,20,27,48" intervals_Back="6,7,8,14" batchIndex="0"/>
+    <p dptChinese="成都" dptEnglish="chengdu" dptTrich="ctu" dstChinese="新加坡" dstEnglish="singapore" dstTrich="sin"
+       intervals_Leave="6,9,14,20,27,48" intervals_Back="6,7,8,14" batchIndex="0"/>
+    <p dptChinese="普吉岛" dptEnglish="phuket" dptTrich="hkt" dstChinese="曼谷" dstEnglish="bangkok" dstTrich="bkk"
+       intervals_Leave="6,9,14,20,27,48" intervals_Back="6,7,8,14" batchIndex="0"/>
+    <p dptChinese="南京" dptEnglish="nanjing" dptTrich="nkg" dstChinese="曼谷" dstEnglish="bangkok" dstTrich="bkk"
+       intervals_Leave="6,9,14,20,27,48" intervals_Back="6,7,8,14" batchIndex="0"/>
+    <p dptChinese="福州" dptEnglish="fuzhou" dptTrich="foc" dstChinese="香港" dstEnglish="hongkong" dstTrich="hkg"
+       intervals_Leave="6,9,14,20,27,48" intervals_Back="6,7,8,14" batchIndex="0"/>
+    <p dptChinese="东京" dptEnglish="tokyo" dptTrich="tyo" dstChinese="上海" dstEnglish="shanghai" dstTrich="sha"
+       intervals_Leave="6,9,14,20,27,48" intervals_Back="6,7,8,14" batchIndex="0"/>
+    <p dptChinese="北京" dptEnglish="beijing" dptTrich="bjs" dstChinese="巴厘岛" dstEnglish="bali" dstTrich="dps"
+       intervals_Leave="6,9,14,20,27,48" intervals_Back="6,7,8,14" batchIndex="0"/>
+    <p dptChinese="天津" dptEnglish="tianjin" dptTrich="tsn" dstChinese="曼谷" dstEnglish="bangkok" dstTrich="bkk"
+       intervals_Leave="6,9,14,20,27,48" intervals_Back="6,7,8,14" batchIndex="0"/>
+    <p dptChinese="天津" dptEnglish="tianjin" dptTrich="tsn" dstChinese="大阪" dstEnglish="osaka" dstTrich="osa"
+       intervals_Leave="6,9,14,20,27,48" intervals_Back="6,7,8,14" batchIndex="0"/>
+    <p dptChinese="香港" dptEnglish="hongkong" dptTrich="hkg" dstChinese="北京" dstEnglish="beijing" dstTrich="bjs"
+       intervals_Leave="6,9,14,20,27,48" intervals_Back="6,7,8,14" batchIndex="0"/>
+    <p dptChinese="武汉" dptEnglish="wuhan" dptTrich="wuh" dstChinese="澳门" dstEnglish="macau" dstTrich="mfm"
+       intervals_Leave="6,9,14,20,27,48" intervals_Back="6,7,8,14" batchIndex="0"/>
+    <p dptChinese="北京" dptEnglish="beijing" dptTrich="bjs" dstChinese="旧金山" dstEnglish="sanfrancisco" dstTrich="sfo"
+       intervals_Leave="9,15,23,32,47,87" intervals_Back="7,8,9,14,21" batchIndex="0"/>
+    <p dptChinese="上海" dptEnglish="shanghai" dptTrich="sha" dstChinese="墨尔本" dstEnglish="melbourne" dstTrich="mel"
+       intervals_Leave="9,15,23,32,47,87" intervals_Back="7,8,9,14,21" batchIndex="0"/>
+    <p dptChinese="深圳" dptEnglish="shenzhen" dptTrich="szx" dstChinese="曼谷" dstEnglish="bangkok" dstTrich="bkk"
+       intervals_Leave="6,9,14,20,27,48" intervals_Back="6,7,8,14" batchIndex="0"/>
+    <p dptChinese="北京" dptEnglish="beijing" dptTrich="bjs" dstChinese="纽约" dstEnglish="newyork" dstTrich="nyc"
+       intervals_Leave="9,15,23,32,47,87" intervals_Back="7,8,9,14,21" batchIndex="0"/>
+    <p dptChinese="广州" dptEnglish="guangzhou" dptTrich="can" dstChinese="新加坡" dstEnglish="singapore" dstTrich="sin"
+       intervals_Leave="6,9,14,20,27,48" intervals_Back="6,7,8,14" batchIndex="0"/>
+    <p dptChinese="杭州" dptEnglish="hangzhou" dptTrich="hgh" dstChinese="曼谷" dstEnglish="bangkok" dstTrich="bkk"
+       intervals_Leave="6,9,14,20,27,48" intervals_Back="6,7,8,14" batchIndex="0"/>
+    <p dptChinese="多伦多" dptEnglish="toronto" dptTrich="yto" dstChinese="北京" dstEnglish="beijing" dstTrich="bjs"
+       intervals_Leave="9,15,23,32,47,87" intervals_Back="7,8,9,14,21" batchIndex="0"/>
+    <p dptChinese="武汉" dptEnglish="wuhan" dptTrich="wuh" dstChinese="曼谷" dstEnglish="bangkok" dstTrich="bkk"
+       intervals_Leave="6,9,14,20,27,48" intervals_Back="6,7,8,14" batchIndex="0"/>
+    <p dptChinese="北京" dptEnglish="beijing" dptTrich="bjs" dstChinese="清迈" dstEnglish="chiangmai" dstTrich="cnx"
+       intervals_Leave="6,9,14,20,27,48" intervals_Back="6,7,8,14" batchIndex="0"/>
+    <p dptChinese="上海" dptEnglish="shanghai" dptTrich="sha" dstChinese="冲绳" dstEnglish="okinawa" dstTrich="oka"
+       intervals_Leave="6,9,14,20,27,48" intervals_Back="6,7,8,14" batchIndex="0"/>
+    <p dptChinese="上海" dptEnglish="shanghai" dptTrich="sha" dstChinese="名古屋" dstEnglish="nagoya" dstTrich="ngo"
+       intervals_Leave="6,9,14,20,27,48" intervals_Back="6,7,8,14" batchIndex="0"/>
+    <p dptChinese="上海" dptEnglish="shanghai" dptTrich="sha" dstChinese="纽约" dstEnglish="newyork" dstTrich="nyc"
+       intervals_Leave="9,15,23,32,47,87" intervals_Back="7,8,9,14,21" batchIndex="0"/>
+    <p dptChinese="上海" dptEnglish="shanghai" dptTrich="sha" dstChinese="多伦多" dstEnglish="toronto" dstTrich="yto"
+       intervals_Leave="9,15,23,32,47,87" intervals_Back="7,8,9,14,21" batchIndex="0"/>
+    <p dptChinese="昆明" dptEnglish="kunming" dptTrich="kmg" dstChinese="曼谷" dstEnglish="bangkok" dstTrich="bkk"
+       intervals_Leave="6,9,14,20,27,48" intervals_Back="6,7,8,14" batchIndex="0"/>
+    <p dptChinese="新加坡" dptEnglish="singapore" dptTrich="sin" dstChinese="曼谷" dstEnglish="bangkok" dstTrich="bkk"
+       intervals_Leave="6,9,14,20,27,48" intervals_Back="6,7,8,14" batchIndex="0"/>
+    <p dptChinese="长春" dptEnglish="changchun" dptTrich="cgq" dstChinese="首尔" dstEnglish="seoul" dstTrich="sel"
+       intervals_Leave="6,9,14,20,27,48" intervals_Back="6,7,8,14" batchIndex="0"/>
+    <p dptChinese="北京" dptEnglish="beijing" dptTrich="bjs" dstChinese="马累" dstEnglish="maldives" dstTrich="mle"
+       intervals_Leave="9,15,23,32,47,87" intervals_Back="7,8,9,14,21" batchIndex="0"/>
+    <p dptChinese="曼谷" dptEnglish="bangkok" dptTrich="bkk" dstChinese="清迈" dstEnglish="chiangmai" dstTrich="cnx"
+       intervals_Leave="6,9,14,20,27,48" intervals_Back="6,7,8,14" batchIndex="0"/>
+    <p dptChinese="南京" dptEnglish="nanjing" dptTrich="nkg" dstChinese="普吉岛" dstEnglish="phuket" dstTrich="hkt"
+       intervals_Leave="6,9,14,20,27,48" intervals_Back="6,7,8,14" batchIndex="0"/>
+    <p dptChinese="广州" dptEnglish="guangzhou" dptTrich="can" dstChinese="首尔" dstEnglish="seoul" dstTrich="sel"
+       intervals_Leave="6,9,14,20,27,48" intervals_Back="6,7,8,14" batchIndex="0"/>
+    <p dptChinese="上海" dptEnglish="shanghai" dptTrich="sha" dstChinese="巴黎" dstEnglish="paris" dstTrich="par"
+       intervals_Leave="9,15,23,32,47,87" intervals_Back="7,8,9,14,21" batchIndex="0"/>
+    <p dptChinese="北京" dptEnglish="beijing" dptTrich="bjs" dstChinese="澳门" dstEnglish="macau" dstTrich="mfm"
+       intervals_Leave="6,9,14,20,27,48" intervals_Back="6,7,8,14" batchIndex="0"/>
+    <p dptChinese="厦门" dptEnglish="xiamen" dptTrich="xmn" dstChinese="曼谷" dstEnglish="bangkok" dstTrich="bkk"
+       intervals_Leave="6,9,14,20,27,48" intervals_Back="6,7,8,14" batchIndex="0"/>
+    <p dptChinese="上海" dptEnglish="shanghai" dptTrich="sha" dstChinese="清迈" dstEnglish="chiangmai" dstTrich="cnx"
+       intervals_Leave="6,9,14,20,27,48" intervals_Back="6,7,8,14" batchIndex="0"/>
+    <p dptChinese="广州" dptEnglish="guangzhou" dptTrich="can" dstChinese="胡志明市" dstEnglish="hochiminhcity" dstTrich="sgn"
+       intervals_Leave="6,9,14,20,27,48" intervals_Back="6,7,8,14" batchIndex="0"/>
+    <p dptChinese="广州" dptEnglish="guangzhou" dptTrich="can" dstChinese="普吉岛" dstEnglish="phuket" dstTrich="hkt"
+       intervals_Leave="6,9,14,20,27,48" intervals_Back="6,7,8,14" batchIndex="0"/>
+    <p dptChinese="武汉" dptEnglish="wuhan" dptTrich="wuh" dstChinese="普吉岛" dstEnglish="phuket" dstTrich="hkt"
+       intervals_Leave="6,9,14,20,27,48" intervals_Back="6,7,8,14" batchIndex="0"/>
+    <p dptChinese="上海" dptEnglish="shanghai" dptTrich="sha" dstChinese="科伦坡" dstEnglish="colombo" dstTrich="cmb"
+       intervals_Leave="9,15,23,32,47,87" intervals_Back="7,8,9,14,21" batchIndex="0"/>
+    <p dptChinese="首尔" dptEnglish="seoul" dptTrich="sel" dstChinese="北京" dstEnglish="beijing" dstTrich="bjs"
+       intervals_Leave="6,9,14,20,27,48" intervals_Back="6,7,8,14" batchIndex="0"/>
+    <p dptChinese="广州" dptEnglish="guangzhou" dptTrich="can" dstChinese="暹粒" dstEnglish="siemreap" dstTrich="rep"
+       intervals_Leave="9,15,23,32,47,87" intervals_Back="7,8,9,14,21" batchIndex="0"/>
+    <p dptChinese="清迈" dptEnglish="chiangmai" dptTrich="cnx" dstChinese="曼谷" dstEnglish="bangkok" dstTrich="bkk"
+       intervals_Leave="6,9,14,20,27,48" intervals_Back="6,7,8,14" batchIndex="0"/>
+    <p dptChinese="首尔" dptEnglish="seoul" dptTrich="sel" dstChinese="青岛" dstEnglish="qingdao" dstTrich="tao"
+       intervals_Leave="6,9,14,20,27,48" intervals_Back="6,7,8,14" batchIndex="0"/>
+    <p dptChinese="曼谷" dptEnglish="bangkok" dptTrich="bkk" dstChinese="北京" dstEnglish="beijing" dstTrich="bjs"
+       intervals_Leave="6,9,14,20,27,48" intervals_Back="6,7,8,14" batchIndex="0"/>
+    <p dptChinese="广州" dptEnglish="guangzhou" dptTrich="can" dstChinese="洛杉矶" dstEnglish="losangeles" dstTrich="lax"
+       intervals_Leave="9,15,23,32,47,87" intervals_Back="7,8,9,14,21" batchIndex="0"/>
+    <p dptChinese="北京" dptEnglish="beijing" dptTrich="bjs" dstChinese="伦敦" dstEnglish="london" dstTrich="lon"
+       intervals_Leave="9,15,23,32,47,87" intervals_Back="7,8,9,14,21" batchIndex="0"/>
+    <p dptChinese="北京" dptEnglish="beijing" dptTrich="bjs" dstChinese="莫斯科" dstEnglish="moscow" dstTrich="mow"
+       intervals_Leave="9,15,23,32,47,87" intervals_Back="7,8,9,14,21" batchIndex="0"/>
+    <p dptChinese="武汉" dptEnglish="wuhan" dptTrich="wuh" dstChinese="新加坡" dstEnglish="singapore" dstTrich="sin"
+       intervals_Leave="6,9,14,20,27,48" intervals_Back="6,7,8,14" batchIndex="0"/>
+    <p dptChinese="曼谷" dptEnglish="bangkok" dptTrich="bkk" dstChinese="上海" dstEnglish="shanghai" dstTrich="sha"
+       intervals_Leave="6,9,14,20,27,48" intervals_Back="6,7,8,14" batchIndex="0"/>
+    <p dptChinese="大阪" dptEnglish="osaka" dptTrich="osa" dstChinese="上海" dstEnglish="shanghai" dstTrich="sha"
+       intervals_Leave="6,9,14,20,27,48" intervals_Back="6,7,8,14" batchIndex="0"/>
+    <p dptChinese="普吉岛" dptEnglish="phuket" dptTrich="hkt" dstChinese="上海" dstEnglish="shanghai" dstTrich="sha"
+       intervals_Leave="6,9,14,20,27,48" intervals_Back="6,7,8,14" batchIndex="0"/>
+    <p dptChinese="曼谷" dptEnglish="bangkok" dptTrich="bkk" dstChinese="广州" dstEnglish="guangzhou" dstTrich="can"
+       intervals_Leave="6,9,14,20,27,48" intervals_Back="6,7,8,14" batchIndex="0"/>
+    <p dptChinese="济州岛" dptEnglish="jeju" dptTrich="cju" dstChinese="上海" dstEnglish="shanghai" dstTrich="sha"
+       intervals_Leave="6,9,14,20,27,48" intervals_Back="6,7,8,14" batchIndex="0"/>
+    <p dptChinese="首尔" dptEnglish="seoul" dptTrich="sel" dstChinese="天津" dstEnglish="tianjin" dstTrich="tsn"
+       intervals_Leave="6,9,14,20,27,48" intervals_Back="6,7,8,14" batchIndex="0"/>
+    <p dptChinese="纽约" dptEnglish="newyork" dptTrich="nyc" dstChinese="北京" dstEnglish="beijing" dstTrich="bjs"
+       intervals_Leave="9,15,23,32,47,87" intervals_Back="7,8,9,14,21" batchIndex="0"/>
+    <p dptChinese="洛杉矶" dptEnglish="losangeles" dptTrich="lax" dstChinese="上海" dstEnglish="shanghai" dstTrich="sha"
+       intervals_Leave="9,15,23,32,47,87" intervals_Back="7,8,9,14,21" batchIndex="0"/>
+    <p dptChinese="巴厘岛" dptEnglish="bali" dptTrich="dps" dstChinese="上海" dstEnglish="shanghai" dstTrich="sha"
+       intervals_Leave="6,9,14,20,27,48" intervals_Back="6,7,8,14" batchIndex="0"/>
+    <p dptChinese="清迈" dptEnglish="chiangmai" dptTrich="cnx" dstChinese="上海" dstEnglish="shanghai" dstTrich="sha"
+       intervals_Leave="6,9,14,20,27,48" intervals_Back="6,7,8,14" batchIndex="0"/>
+    <p dptChinese="纽约" dptEnglish="newyork" dptTrich="nyc" dstChinese="上海" dstEnglish="shanghai" dstTrich="sha"
+       intervals_Leave="9,15,23,32,47,87" intervals_Back="7,8,9,14,21" batchIndex="0"/>
+    <p dptChinese="墨尔本" dptEnglish="melbourne" dptTrich="mel" dstChinese="上海" dstEnglish="shanghai" dstTrich="sha"
+       intervals_Leave="9,15,23,32,47,87" intervals_Back="7,8,9,14,21" batchIndex="0"/>
+    <p dptChinese="巴厘岛" dptEnglish="bali" dptTrich="dps" dstChinese="北京" dstEnglish="beijing" dstTrich="bjs"
+       intervals_Leave="6,9,14,20,27,48" intervals_Back="6,7,8,14" batchIndex="0"/>
+    <p dptChinese="香港" dptEnglish="hongkong" dptTrich="hkg" dstChinese="首尔" dstEnglish="seoul" dstTrich="sel"
+       intervals_Leave="6,9,14,20,27,48" intervals_Back="6,7,8,14" batchIndex="0"/>
+    <p dptChinese="首尔" dptEnglish="seoul" dptTrich="sel" dstChinese="沈阳" dstEnglish="shenyang" dstTrich="she"
+       intervals_Leave="6,9,14,20,27,48" intervals_Back="6,7,8,14" batchIndex="0"/>
+    <p dptChinese="曼谷" dptEnglish="bangkok" dptTrich="bkk" dstChinese="重庆" dstEnglish="chongqing" dstTrich="ckg"
+       intervals_Leave="6,9,14,20,27,48" intervals_Back="6,7,8,14" batchIndex="0"/>
+    <p dptChinese="巴黎" dptEnglish="paris" dptTrich="par" dstChinese="北京" dstEnglish="beijing" dstTrich="bjs"
+       intervals_Leave="9,15,23,32,47,87" intervals_Back="7,8,9,14,21" batchIndex="0"/>
+    <p dptChinese="大阪" dptEnglish="osaka" dptTrich="osa" dstChinese="北京" dstEnglish="beijing" dstTrich="bjs"
+       intervals_Leave="6,9,14,20,27,48" intervals_Back="6,7,8,14" batchIndex="0"/>
+    <p dptChinese="新加坡" dptEnglish="singapore" dptTrich="sin" dstChinese="天津" dstEnglish="tianjin" dstTrich="tsn"
+       intervals_Leave="6,9,14,20,27,48" intervals_Back="6,7,8,14" batchIndex="0"/>
+    <p dptChinese="伦敦" dptEnglish="london" dptTrich="lon" dstChinese="北京" dstEnglish="beijing" dstTrich="bjs"
+       intervals_Leave="9,15,23,32,47,87" intervals_Back="7,8,9,14,21" batchIndex="0"/>
+    <p dptChinese="杭州" dptEnglish="hangzhou" dptTrich="hgh" dstChinese="首尔" dstEnglish="seoul" dstTrich="sel"
+       intervals_Leave="6,9,14,20,27,48" intervals_Back="6,7,8,14" batchIndex="0"/>
+    <p dptChinese="奥克兰" dptEnglish="auckland" dptTrich="akl" dstChinese="上海" dstEnglish="shanghai" dstTrich="sha"
+       intervals_Leave="9,15,23,32,47,87" intervals_Back="7,8,9,14,21" batchIndex="0"/>
+    <p dptChinese="巴黎" dptEnglish="paris" dptTrich="par" dstChinese="上海" dstEnglish="shanghai" dstTrich="sha"
+       intervals_Leave="9,15,23,32,47,87" intervals_Back="7,8,9,14,21" batchIndex="0"/>
+    <p dptChinese="曼谷" dptEnglish="bangkok" dptTrich="bkk" dstChinese="西安" dstEnglish="xian" dstTrich="sia"
+       intervals_Leave="6,9,14,20,27,48" intervals_Back="6,7,8,14" batchIndex="0"/>
+    <p dptChinese="首尔" dptEnglish="seoul" dptTrich="sel" dstChinese="武汉" dstEnglish="wuhan" dstTrich="wuh"
+       intervals_Leave="6,9,14,20,27,48" intervals_Back="6,7,8,14" batchIndex="0"/>
+    <p dptChinese="广州" dptEnglish="guangzhou" dptTrich="can" dstChinese="东京" dstEnglish="tokyo" dstTrich="tyo"
+       intervals_Leave="6,9,14,20,27,48" intervals_Back="6,7,8,14" batchIndex="0"/>
+    <p dptChinese="首尔" dptEnglish="seoul" dptTrich="sel" dstChinese="深圳" dstEnglish="shenzhen" dstTrich="szx"
+       intervals_Leave="6,9,14,20,27,48" intervals_Back="6,7,8,14" batchIndex="0"/>
+    <p dptChinese="首尔" dptEnglish="seoul" dptTrich="sel" dstChinese="威海" dstEnglish="weihai" dstTrich="weh"
+       intervals_Leave="6,9,14,20,27,48" intervals_Back="6,7,8,14" batchIndex="0"/>
+    <p dptChinese="马累" dptEnglish="maldives" dptTrich="mle" dstChinese="上海" dstEnglish="shanghai" dstTrich="sha"
+       intervals_Leave="9,15,23,32,47,87" intervals_Back="7,8,9,14,21" batchIndex="0"/>
+    <p dptChinese="伦敦" dptEnglish="london" dptTrich="lon" dstChinese="上海" dstEnglish="shanghai" dstTrich="sha"
+       intervals_Leave="9,15,23,32,47,87" intervals_Back="7,8,9,14,21" batchIndex="0"/>
+    <p dptChinese="冲绳" dptEnglish="okinawa" dptTrich="oka" dstChinese="上海" dstEnglish="shanghai" dstTrich="sha"
+       intervals_Leave="6,9,14,20,27,48" intervals_Back="6,7,8,14" batchIndex="0"/>
+    <p dptChinese="哈尔滨" dptEnglish="haerbin" dptTrich="hrb" dstChinese="首尔" dstEnglish="seoul" dstTrich="sel"
+       intervals_Leave="6,9,14,20,27,48" intervals_Back="6,7,8,14" batchIndex="0"/>
+    <p dptChinese="上海" dptEnglish="shanghai" dptTrich="sha" dstChinese="札幌" dstEnglish="hokkaido" dstTrich="spk"
+       intervals_Leave="6,9,14,20,27,48" intervals_Back="6,7,8,14" batchIndex="0"/>
+    <p dptChinese="重庆" dptEnglish="chongqing" dptTrich="ckg" dstChinese="首尔" dstEnglish="seoul" dstTrich="sel"
+       intervals_Leave="6,9,14,20,27,48" intervals_Back="6,7,8,14" batchIndex="0"/>
+    <p dptChinese="旧金山" dptEnglish="sanfrancisco" dptTrich="sfo" dstChinese="上海" dstEnglish="shanghai" dstTrich="sha"
+       intervals_Leave="9,15,23,32,47,87" intervals_Back="7,8,9,14,21" batchIndex="0"/>
+    <p dptChinese="郑州" dptEnglish="zhengzhou" dptTrich="cgo" dstChinese="首尔" dstEnglish="seoul" dstTrich="sel"
+       intervals_Leave="6,9,14,20,27,48" intervals_Back="6,7,8,14" batchIndex="0"/>
+    <p dptChinese="北京" dptEnglish="beijing" dptTrich="bjs" dstChinese="芝加哥" dstEnglish="chicago" dstTrich="chi"
+       intervals_Leave="9,15,23,32,47,87" intervals_Back="7,8,9,14,21" batchIndex="0"/>
+    <p dptChinese="上海" dptEnglish="shanghai" dptTrich="sha" dstChinese="奥克兰" dstEnglish="auckland" dstTrich="akl"
+       intervals_Leave="9,15,23,32,47,87" intervals_Back="7,8,9,14,21" batchIndex="0"/>
+    <p dptChinese="北京" dptEnglish="beijing" dptTrich="bjs" dstChinese="墨尔本" dstEnglish="melbourne" dstTrich="mel"
+       intervals_Leave="9,15,23,32,47,87" intervals_Back="7,8,9,14,21" batchIndex="0"/>
+    <p dptChinese="北京" dptEnglish="beijing" dptTrich="bjs" dstChinese="巴黎" dstEnglish="paris" dstTrich="par"
+       intervals_Leave="9,15,23,32,47,87" intervals_Back="7,8,9,14,21" batchIndex="0"/>
+    <p dptChinese="上海" dptEnglish="shanghai" dptTrich="sha" dstChinese="法兰克福" dstEnglish="frankfurt" dstTrich="fra"
+       intervals_Leave="9,15,23,32,47,87" intervals_Back="7,8,9,14,21" batchIndex="0"/>
+    <p dptChinese="上海" dptEnglish="shanghai" dptTrich="sha" dstChinese="米兰" dstEnglish="milan" dstTrich="mil"
+       intervals_Leave="9,15,23,32,47,87" intervals_Back="7,8,9,14,21" batchIndex="0"/>
+    <p dptChinese="广州" dptEnglish="guangzhou" dptTrich="can" dstChinese="旧金山" dstEnglish="sanfrancisco" dstTrich="sfo"
+       intervals_Leave="9,15,23,32,47,87" intervals_Back="7,8,9,14,21" batchIndex="0"/>
+    <p dptChinese="广州" dptEnglish="guangzhou" dptTrich="can" dstChinese="纽约" dstEnglish="newyork" dstTrich="nyc"
+       intervals_Leave="9,15,23,32,47,87" intervals_Back="7,8,9,14,21" batchIndex="0"/>
+    <p dptChinese="广州" dptEnglish="guangzhou" dptTrich="can" dstChinese="悉尼" dstEnglish="sydney" dstTrich="syd"
+       intervals_Leave="9,15,23,32,47,87" intervals_Back="7,8,9,14,21" batchIndex="0"/>
+    <p dptChinese="北京" dptEnglish="beijing" dptTrich="bjs" dstChinese="华盛顿" dstEnglish="washington" dstTrich="was"
+       intervals_Leave="9,15,23,32,47,87" intervals_Back="7,8,9,14,21" batchIndex="0"/>
+    <p dptChinese="上海" dptEnglish="shanghai" dptTrich="sha" dstChinese="马累" dstEnglish="maldives" dstTrich="mle"
+       intervals_Leave="9,15,23,32,47,87" intervals_Back="7,8,9,14,21" batchIndex="0"/>
+    <p dptChinese="上海" dptEnglish="shanghai" dptTrich="sha" dstChinese="旧金山" dstEnglish="sanfrancisco" dstTrich="sfo"
+       intervals_Leave="9,15,23,32,47,87" intervals_Back="7,8,9,14,21" batchIndex="0"/>
+    <p dptChinese="上海" dptEnglish="shanghai" dptTrich="sha" dstChinese="休斯敦" dstEnglish="houston" dstTrich="hou"
+       intervals_Leave="9,15,23,32,47,87" intervals_Back="7,8,9,14,21" batchIndex="0"/>
+    <p dptChinese="北京" dptEnglish="beijing" dptTrich="bjs" dstChinese="悉尼" dstEnglish="sydney" dstTrich="syd"
+       intervals_Leave="9,15,23,32,47,87" intervals_Back="7,8,9,14,21" batchIndex="0"/>
+    <p dptChinese="北京" dptEnglish="beijing" dptTrich="bjs" dstChinese="奥克兰" dstEnglish="auckland" dstTrich="akl"
+       intervals_Leave="9,15,23,32,47,87" intervals_Back="7,8,9,14,21" batchIndex="0"/>
+    <p dptChinese="北京" dptEnglish="beijing" dptTrich="bjs" dstChinese="布拉格" dstEnglish="prague" dstTrich="prg"
+       intervals_Leave="9,15,23,32,47,87" intervals_Back="7,8,9,14,21" batchIndex="0"/>
+    <p dptChinese="上海" dptEnglish="shanghai" dptTrich="sha" dstChinese="毛里求斯" dstEnglish="mauritius" dstTrich="mru"
+       intervals_Leave="9,15,23,32,47,87" intervals_Back="7,8,9,14,21" batchIndex="0"/>
+    <p dptChinese="上海" dptEnglish="shanghai" dptTrich="sha" dstChinese="莫斯科" dstEnglish="moscow" dstTrich="mow"
+       intervals_Leave="9,15,23,32,47,87" intervals_Back="7,8,9,14,21" batchIndex="0"/>
+    <p dptChinese="北京" dptEnglish="beijing" dptTrich="bjs" dstChinese="西雅图" dstEnglish="seattle" dstTrich="sea"
+       intervals_Leave="9,15,23,32,47,87" intervals_Back="7,8,9,14,21" batchIndex="0"/>
+    <p dptChinese="上海" dptEnglish="shanghai" dptTrich="sha" dstChinese="雅典" dstEnglish="athens" dstTrich="ath"
+       intervals_Leave="9,15,23,32,47,87" intervals_Back="7,8,9,14,21" batchIndex="0"/>
+    <p dptChinese="上海" dptEnglish="shanghai" dptTrich="sha" dstChinese="芝加哥" dstEnglish="chicago" dstTrich="chi"
+       intervals_Leave="9,15,23,32,47,87" intervals_Back="7,8,9,14,21" batchIndex="0"/>
+    <p dptChinese="上海" dptEnglish="shanghai" dptTrich="sha" dstChinese="波士顿" dstEnglish="boston" dstTrich="bos"
+       intervals_Leave="9,15,23,32,47,87" intervals_Back="7,8,9,14,21" batchIndex="0"/>
+    <p dptChinese="北京" dptEnglish="beijing" dptTrich="bjs" dstChinese="柏林" dstEnglish="berlin" dstTrich="ber"
+       intervals_Leave="9,15,23,32,47,87" intervals_Back="7,8,9,14,21" batchIndex="0"/>
+    <p dptChinese="上海" dptEnglish="shanghai" dptTrich="sha" dstChinese="罗马" dstEnglish="rome" dstTrich="rom"
+       intervals_Leave="9,15,23,32,47,87" intervals_Back="7,8,9,14,21" batchIndex="0"/>
+    <p dptChinese="上海" dptEnglish="shanghai" dptTrich="sha" dstChinese="楠迪" dstEnglish="nadi" dstTrich="nan"
+       intervals_Leave="9,15,23,32,47,87" intervals_Back="7,8,9,14,21" batchIndex="0"/>
+    <p dptChinese="北京" dptEnglish="beijing" dptTrich="bjs" dstChinese="波士顿" dstEnglish="boston" dstTrich="bos"
+       intervals_Leave="9,15,23,32,47,87" intervals_Back="7,8,9,14,21" batchIndex="0"/>
+    <p dptChinese="北京" dptEnglish="beijing" dptTrich="bjs" dstChinese="慕尼黑" dstEnglish="munich" dstTrich="muc"
+       intervals_Leave="9,15,23,32,47,87" intervals_Back="7,8,9,14,21" batchIndex="0"/>
+    <p dptChinese="北京" dptEnglish="beijing" dptTrich="bjs" dstChinese="芽庄" dstEnglish="nhatrang" dstTrich="nha"
+       intervals_Leave="9,15,23,32,47,87" intervals_Back="7,8,9,14,21" batchIndex="0"/>
+    <p dptChinese="上海" dptEnglish="shanghai" dptTrich="sha" dstChinese="马德里" dstEnglish="madrid" dstTrich="mad"
+       intervals_Leave="9,15,23,32,47,87" intervals_Back="7,8,9,14,21" batchIndex="0"/>
+    <p dptChinese="广州" dptEnglish="guangzhou" dptTrich="can" dstChinese="温哥华" dstEnglish="vancouver" dstTrich="yvr"
+       intervals_Leave="9,15,23,32,47,87" intervals_Back="7,8,9,14,21" batchIndex="0"/>
+    <p dptChinese="广州" dptEnglish="guangzhou" dptTrich="can" dstChinese="马累" dstEnglish="maldives" dstTrich="mle"
+       intervals_Leave="9,15,23,32,47,87" intervals_Back="7,8,9,14,21" batchIndex="0"/>
+    <p dptChinese="北京" dptEnglish="beijing" dptTrich="bjs" dstChinese="渥太华" dstEnglish="ottawa" dstTrich="yow"
+       intervals_Leave="9,15,23,32,47,87" intervals_Back="7,8,9,14,21" batchIndex="0"/>
+    <p dptChinese="北京" dptEnglish="beijing" dptTrich="bjs" dstChinese="达拉斯" dstEnglish="dallas" dstTrich="dfw"
+       intervals_Leave="9,15,23,32,47,87" intervals_Back="7,8,9,14,21" batchIndex="0"/>
+    <p dptChinese="北京" dptEnglish="beijing" dptTrich="bjs" dstChinese="拉斯维加斯" dstEnglish="lasvegas" dstTrich="las"
+       intervals_Leave="9,15,23,32,47,87" intervals_Back="7,8,9,14,21" batchIndex="0"/>
+    <p dptChinese="北京" dptEnglish="beijing" dptTrich="bjs" dstChinese="罗马" dstEnglish="rome" dstTrich="rom"
+       intervals_Leave="9,15,23,32,47,87" intervals_Back="7,8,9,14,21" batchIndex="0"/>
+    <p dptChinese="上海" dptEnglish="shanghai" dptTrich="sha" dstChinese="塞班" dstEnglish="saipan" dstTrich="spn"
+       intervals_Leave="9,15,23,32,47,87" intervals_Back="7,8,9,14,21" batchIndex="0"/>
+    <p dptChinese="广州" dptEnglish="guangzhou" dptTrich="can" dstChinese="墨尔本" dstEnglish="melbourne" dstTrich="mel"
+       intervals_Leave="9,15,23,32,47,87" intervals_Back="7,8,9,14,21" batchIndex="0"/>
+    <p dptChinese="上海" dptEnglish="shanghai" dptTrich="sha" dstChinese="达拉斯" dstEnglish="dallas" dstTrich="dfw"
+       intervals_Leave="9,15,23,32,47,87" intervals_Back="7,8,9,14,21" batchIndex="0"/>
+    <p dptChinese="北京" dptEnglish="beijing" dptTrich="bjs" dstChinese="法兰克福" dstEnglish="frankfurt" dstTrich="fra"
+       intervals_Leave="9,15,23,32,47,87" intervals_Back="7,8,9,14,21" batchIndex="0"/>
+    <p dptChinese="北京" dptEnglish="beijing" dptTrich="bjs" dstChinese="卡尔加里" dstEnglish="calgary" dstTrich="yyc"
+       intervals_Leave="9,15,23,32,47,87" intervals_Back="7,8,9,14,21" batchIndex="0"/>
+    <p dptChinese="北京" dptEnglish="beijing" dptTrich="bjs" dstChinese="塞班" dstEnglish="saipan" dstTrich="spn"
+       intervals_Leave="9,15,23,32,47,87" intervals_Back="7,8,9,14,21" batchIndex="0"/>
+    <p dptChinese="成都" dptEnglish="chengdu" dptTrich="ctu" dstChinese="温哥华" dstEnglish="vancouver" dstTrich="yvr"
+       intervals_Leave="9,15,23,32,47,87" intervals_Back="7,8,9,14,21" batchIndex="0"/>
+    <p dptChinese="重庆" dptEnglish="chongqing" dptTrich="ckg" dstChinese="洛杉矶" dstEnglish="losangeles" dstTrich="lax"
+       intervals_Leave="9,15,23,32,47,87" intervals_Back="7,8,9,14,21" batchIndex="0"/>
+    <p dptChinese="广州" dptEnglish="guangzhou" dptTrich="can" dstChinese="基督城" dstEnglish="christchurch" dstTrich="chc"
+       intervals_Leave="9,15,23,32,47,87" intervals_Back="7,8,9,14,21" batchIndex="0"/>
+    <p dptChinese="广州" dptEnglish="guangzhou" dptTrich="can" dstChinese="甲米" dstEnglish="krabi" dstTrich="kbv"
+       intervals_Leave="9,15,23,32,47,87" intervals_Back="7,8,9,14,21" batchIndex="0"/>
+    <p dptChinese="北京" dptEnglish="beijing" dptTrich="bjs" dstChinese="哥本哈根" dstEnglish="copenhagen" dstTrich="cph"
+       intervals_Leave="9,15,23,32,47,87" intervals_Back="7,8,9,14,21" batchIndex="0"/>
+    <p dptChinese="北京" dptEnglish="beijing" dptTrich="bjs" dstChinese="阿姆斯特丹" dstEnglish="amsterdam" dstTrich="ams"
+       intervals_Leave="9,15,23,32,47,87" intervals_Back="7,8,9,14,21" batchIndex="0"/>
+    <p dptChinese="上海" dptEnglish="shanghai" dptTrich="sha" dstChinese="西雅图" dstEnglish="seattle" dstTrich="sea"
+       intervals_Leave="9,15,23,32,47,87" intervals_Back="7,8,9,14,21" batchIndex="0"/>
+    <p dptChinese="上海" dptEnglish="shanghai" dptTrich="sha" dstChinese="布鲁塞尔" dstEnglish="brussels" dstTrich="bru"
+       intervals_Leave="9,15,23,32,47,87" intervals_Back="7,8,9,14,21" batchIndex="0"/>
+    <p dptChinese="上海" dptEnglish="shanghai" dptTrich="sha" dstChinese="维也纳" dstEnglish="vienna" dstTrich="vie"
+       intervals_Leave="9,15,23,32,47,87" intervals_Back="7,8,9,14,21" batchIndex="0"/>
+    <p dptChinese="上海" dptEnglish="shanghai" dptTrich="sha" dstChinese="甲米" dstEnglish="krabi" dstTrich="kbv"
+       intervals_Leave="9,15,23,32,47,87" intervals_Back="7,8,9,14,21" batchIndex="0"/>
+    <p dptChinese="北京" dptEnglish="beijing" dptTrich="bjs" dstChinese="毛里求斯" dstEnglish="mauritius" dstTrich="mru"
+       intervals_Leave="9,15,23,32,47,87" intervals_Back="7,8,9,14,21" batchIndex="0"/>
+    <p dptChinese="上海" dptEnglish="shanghai" dptTrich="sha" dstChinese="檀香山" dstEnglish="honolulu" dstTrich="hnl"
+       intervals_Leave="9,15,23,32,47,87" intervals_Back="7,8,9,14,21" batchIndex="0"/>
+    <p dptChinese="北京" dptEnglish="beijing" dptTrich="bjs" dstChinese="雅典" dstEnglish="athens" dstTrich="ath"
+       intervals_Leave="9,15,23,32,47,87" intervals_Back="7,8,9,14,21" batchIndex="0"/>
+    <p dptChinese="上海" dptEnglish="shanghai" dptTrich="sha" dstChinese="奥斯汀" dstEnglish="austin" dstTrich="aus"
+       intervals_Leave="9,15,23,32,47,87" intervals_Back="7,8,9,14,21" batchIndex="0"/>
+    <p dptChinese="上海" dptEnglish="shanghai" dptTrich="sha" dstChinese="爱丁堡" dstEnglish="edinburgh" dstTrich="edi"
+       intervals_Leave="9,15,23,32,47,87" intervals_Back="7,8,9,14,21" batchIndex="0"/>
+    <p dptChinese="北京" dptEnglish="beijing" dptTrich="bjs" dstChinese="基督城" dstEnglish="christchurch" dstTrich="chc"
+       intervals_Leave="9,15,23,32,47,87" intervals_Back="7,8,9,14,21" batchIndex="0"/>
+    <p dptChinese="北京" dptEnglish="beijing" dptTrich="bjs" dstChinese="苏黎世" dstEnglish="zurich" dstTrich="zrh"
+       intervals_Leave="9,15,23,32,47,87" intervals_Back="7,8,9,14,21" batchIndex="0"/>
+    <p dptChinese="上海" dptEnglish="shanghai" dptTrich="sha" dstChinese="华盛顿" dstEnglish="washington" dstTrich="was"
+       intervals_Leave="9,15,23,32,47,87" intervals_Back="7,8,9,14,21" batchIndex="0"/>
+    <p dptChinese="上海" dptEnglish="shanghai" dptTrich="sha" dstChinese="底特律" dstEnglish="detroit" dstTrich="dtt"
+       intervals_Leave="9,15,23,32,47,87" intervals_Back="7,8,9,14,21" batchIndex="0"/>
+    <p dptChinese="上海" dptEnglish="shanghai" dptTrich="sha" dstChinese="暹粒" dstEnglish="siemreap" dstTrich="rep"
+       intervals_Leave="9,15,23,32,47,87" intervals_Back="7,8,9,14,21" batchIndex="0"/>
+    <p dptChinese="上海" dptEnglish="shanghai" dptTrich="sha" dstChinese="蒙特利尔" dstEnglish="montreal" dstTrich="ymq"
+       intervals_Leave="9,15,23,32,47,87" intervals_Back="7,8,9,14,21" batchIndex="0"/>
+    <p dptChinese="上海" dptEnglish="shanghai" dptTrich="sha" dstChinese="曼彻斯特" dstEnglish="manchester" dstTrich="man"
+       intervals_Leave="9,15,23,32,47,87" intervals_Back="7,8,9,14,21" batchIndex="0"/>
+    <p dptChinese="北京" dptEnglish="beijing" dptTrich="bjs" dstChinese="甲米" dstEnglish="krabi" dstTrich="kbv"
+       intervals_Leave="9,15,23,32,47,87" intervals_Back="7,8,9,14,21" batchIndex="0"/>
+    <p dptChinese="北京" dptEnglish="beijing" dptTrich="bjs" dstChinese="费城" dstEnglish="philadelphia" dstTrich="phl"
+       intervals_Leave="9,15,23,32,47,87" intervals_Back="7,8,9,14,21" batchIndex="0"/>
+    <p dptChinese="成都" dptEnglish="chengdu" dptTrich="ctu" dstChinese="墨尔本" dstEnglish="melbourne" dstTrich="mel"
+       intervals_Leave="9,15,23,32,47,87" intervals_Back="7,8,9,14,21" batchIndex="0"/>
+    <p dptChinese="成都" dptEnglish="chengdu" dptTrich="ctu" dstChinese="巴黎" dstEnglish="paris" dstTrich="par"
+       intervals_Leave="9,15,23,32,47,87" intervals_Back="7,8,9,14,21" batchIndex="0"/>
+    <p dptChinese="成都" dptEnglish="chengdu" dptTrich="ctu" dstChinese="阿姆斯特丹" dstEnglish="amsterdam" dstTrich="ams"
+       intervals_Leave="9,15,23,32,47,87" intervals_Back="7,8,9,14,21" batchIndex="0"/>
+    <p dptChinese="广州" dptEnglish="guangzhou" dptTrich="can" dstChinese="巴黎" dstEnglish="paris" dstTrich="par"
+       intervals_Leave="9,15,23,32,47,87" intervals_Back="7,8,9,14,21" batchIndex="0"/>
+    <p dptChinese="成都" dptEnglish="chengdu" dptTrich="ctu" dstChinese="暹粒" dstEnglish="siemreap" dstTrich="rep"
+       intervals_Leave="9,15,23,32,47,87" intervals_Back="7,8,9,14,21" batchIndex="0"/>
+    <p dptChinese="成都" dptEnglish="chengdu" dptTrich="ctu" dstChinese="西雅图" dstEnglish="seattle" dstTrich="sea"
+       intervals_Leave="9,15,23,32,47,87" intervals_Back="7,8,9,14,21" batchIndex="0"/>
+    <p dptChinese="成都" dptEnglish="chengdu" dptTrich="ctu" dstChinese="多伦多" dstEnglish="toronto" dstTrich="yto"
+       intervals_Leave="9,15,23,32,47,87" intervals_Back="7,8,9,14,21" batchIndex="0"/>
+    <p dptChinese="成都" dptEnglish="chengdu" dptTrich="ctu" dstChinese="纽约" dstEnglish="newyork" dstTrich="nyc"
+       intervals_Leave="9,15,23,32,47,87" intervals_Back="7,8,9,14,21" batchIndex="0"/>
+    <p dptChinese="成都" dptEnglish="chengdu" dptTrich="ctu" dstChinese="布鲁塞尔" dstEnglish="brussels" dstTrich="bru"
+       intervals_Leave="9,15,23,32,47,87" intervals_Back="7,8,9,14,21" batchIndex="0"/>
+    <p dptChinese="广州" dptEnglish="guangzhou" dptTrich="can" dstChinese="奥克兰" dstEnglish="auckland" dstTrich="akl"
+       intervals_Leave="9,15,23,32,47,87" intervals_Back="7,8,9,14,21" batchIndex="0"/>
+</root>

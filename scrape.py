@@ -134,14 +134,14 @@ def run_a_process(params):
 
 if __name__ == '__main__':
     n = 1
-    pool = ThreadPool(processes=n)
+    # pool = ThreadPool(processes=n)
     split_list=lambda n, l: [l[len(l) / n * i:len(l) / n * (i + 1)] for i in range(n)]
-    # first_part=split_list(n,params)[0]
-    # run_a_process(first_part)
+    first_part=split_list(n,params)[0]
+    run_a_process(first_part)
     # print first_part
     # run_a_process(first_part)
     # run_a_process(split_list(n, params)[0][0])
     # print split_list(n,params)
-    pool.map_async(run_a_process, split_list(n,params))
-    pool.close()
-    pool.join()
+    # pool.map_async(run_a_process, split_list(n,params))
+    # pool.close()
+    # pool.join()

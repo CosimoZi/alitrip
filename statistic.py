@@ -96,7 +96,7 @@ class AlitripCounter(BaseCounter):
                            'price': float(i['totalAdultPrice']) / 100,
                            'leave_city_name': i['flightInfo'][0]['flightSegments'][0]['depCityName'],
                            'back_city_name': i['flightInfo'][0]['flightSegments'][0]['arrCityName']
-                           } for i in flightItems if len(i['flightInfo'][0]['flightSegments'])<2}
+                           } for i in flightItems if len(i['flightInfo'][0]['flightSegments']) < 2}
         return condition, line_parts[1], flight_items
 
     def strainer(self, line):

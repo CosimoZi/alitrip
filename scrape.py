@@ -12,6 +12,7 @@ import datetime
 from multiprocessing import Pool
 from multiprocessing.dummy import Pool as ThreadPool
 import traceback
+from threading import Lock
 
 
 def get_page(params):
@@ -26,7 +27,7 @@ def get_page(params):
     try:
         date, (depCity, arrCity), driver = params
         print date, depCity, arrCity
-        wait = WebDriverWait(driver, 10)
+        wait = WebDriverWait(driver, 20)
         if 'sijipiao.alitrip.com/ie/flight_search_result.htm' not in driver.current_url:
             driver.get('https://sijipiao.alitrip.com/ie/flight_search_result.htm')
         print 'get start page'
@@ -66,17 +67,29 @@ def get_page(params):
         # element.clear()
         # element.send_keys(date[1],Keys.RETURN)
         # wait.until(EC.element_to_be_clickable((By.CLASS_NAME, 'search-btn')))
-        wait.until(EC.presence_of_element_located((By.CLASS_NAME, 'search-msg')))
-        # sleep(5)
-        # driver.get_screenshot_as_png()
-        # driver.save_screenshot('test.png')
-        # driver.close()
+        wait.until(EC.invisibility_of_element_located((By.CLASS_NAME, 'pi-loading-in')))
+        # btns = driver.find_elements_by_xpath('//*[@class="select-btn J_Btn_Select hide-when-open"]')
+        #
+        # def get_return_info(i):
+        #     btns = driver.find_elements_by_xpath('//*[@class="select-btn J_Btn_Select hide-when-open"]')
+        #     btns[i].click()
+        #     wait.until(EC.invisibility_of_element_located((By.CLASS_NAME, 'pi-loading-in')))
+        #     driver.execute_script("window.scrollTo(0, document.body.scrollHeight)")
+        #     driver.find_element_by_class_name('J_Reset').click()
+        #     print 'get No.%s flight' % i
+        #
+        # for i in range(len(btns)):
+        #     try:get_return_info(i)
+        #     except:get_return_info(i)
+        #     # sleep(5)
+        #     # driver.get_screenshot_as_png()
+        #     # driver.save_screenshot('test.png')
+        #     # driver.close()
     except:
         # driver.get_screenshot_as_png()
         # driver.save_screenshot('test.png')
-        print 'retrying'
+        # print 'retrying'
         traceback.print_exc()
-        # raise
         get_page(params)
         # traceback.print_exc()
         # driver.close()
@@ -123,7 +136,6 @@ def run_a_process(params):
             try:
                 get_page(param + (driver,))
             except:
-                raise
                 continue
     except:
         driver.close()
@@ -133,15 +145,15 @@ def run_a_process(params):
 
 
 if __name__ == '__main__':
-    n = 1
-    # pool = ThreadPool(processes=n)
-    split_list=lambda n, l: [l[len(l) / n * i:len(l) / n * (i + 1)] for i in range(n)]
-    first_part=split_list(n,params)[0]
-    run_a_process(first_part)
+    n = 4
+    pool = ThreadPool(processes=n)
+    split_list = lambda n, l: [l[len(l) / n * i:len(l) / n * (i + 1)] for i in range(n)]
+    # first_part=split_list(n,params)[0]
+    # run_a_process(first_part)
     # print first_part
     # run_a_process(first_part)
     # run_a_process(split_list(n, params)[0][0])
     # print split_list(n,params)
-    # pool.map_async(run_a_process, split_list(n,params))
-    # pool.close()
-    # pool.join()
+    pool.map_async(run_a_process, split_list(n, params))
+    pool.close()
+    pool.join()
